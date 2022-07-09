@@ -1,5 +1,7 @@
-# Prajwal Gurung (Discord - Supreme)
-# Python Course - July
+## Prajwal Gurung (Discord - Supreme)
 
-# All the assignments are posted here
-# Chapter 1 Quiz - 'Done'
+## Python Course - July
+
+## All the assignments are posted here
+
+## Chapter 1 Quiz - Done
