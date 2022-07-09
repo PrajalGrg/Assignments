@@ -1,4 +1,4 @@
-# Prajwal Gurung
+# Prajwal Gurung (Discord - Supreme)
 # Python Course - July
 
 # All the assignments are posted here
